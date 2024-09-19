@@ -1,0 +1,42 @@
+[
+  {
+    "studentId": "12345",
+    "group": "Sabah Grubu"
+  },
+  {
+    "studentId": "67890",
+    "group": "Öğleden Sonra Grubu"
+  },
+  {
+    "studentId": "123",
+    "group": "Sabah Grubu"
+  },
+  {
+    "studentId": "xxxxxxxxxxxxxxx",
+    "group": "Sabah Grubu"
+  },
+  {
+    "studentId": "323333",
+    "group": "Öğleden Sonra Grubu"
+  },
+  {
+    "studentId": "23412412412412412412",
+    "group": "2"
+  },
+  {
+    "studentId": "sxfasfasfasfas",
+    "group": "1"
+  },
+  {
+    "studentId": "777",
+    "group": "1"
+  },
+  {
+    "studentId": "888",
+    "group": "1"
+  },
+  {
+    "studentId": "222",
+    "group": "1"
+  }
+]
