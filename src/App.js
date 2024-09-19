@@ -16,7 +16,7 @@ function App() {
 		}
 
 		try {
-			const response = await fetch("http://omuexam.xyz/save-student", {
+			const response = await fetch("https://svnmzznf2x.eu-central-1.awsapprunner.com/save-student", {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",
