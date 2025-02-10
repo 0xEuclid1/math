@@ -38,7 +38,7 @@ function App() {
 
 	return (
 		<div className="container mt-5">
-			<h2 className="text-center mb-4">Matematik I Dersi Grup Seçimi</h2>
+			<h2 className="text-center mb-4">Matematik II Dersi Grup Seçimi</h2>
 			{submitted ? (
 				<div className="alert alert-success" role="alert">
 					Seçiminiz başarıyla kaydedildi!
@@ -68,7 +68,7 @@ function App() {
 								onChange={(e) => setGroup(e.target.value)}
 							/>
 							<label className="form-check-label" htmlFor="morning">
-								Sabah Grubu (Çarşamba 08:15-12:00 )
+								Sabah Grubu (Çarşamba 08:00-11:30 )
 							</label>
 						</div>
 						<div className="form-check">
@@ -81,7 +81,7 @@ function App() {
 								onChange={(e) => setGroup(e.target.value)}
 							/>
 							<label className="form-check-label" htmlFor="afternoon">
-								Öğleden Sonra Grubu (Çarşamba 13:15-17:00 )
+								Öğleden Sonra Grubu (Çarşamba 12:30-16:00 )
 							</label>
 						</div>
 					</div>
